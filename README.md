@@ -1,6 +1,10 @@
 # myAccounts Serverless application. 
 
-myaccounts is [Serverless](https://en.wikipedia.org/wiki/Serverless_computing) application. Its deployable in aws. Here is Demo page [myAccounts app](http://myaccounts-sls-dns.s3-website-eu-west-1.amazonaws.com/login). username: testi@testi.com password : Testi2019!
+myaccounts is [Serverless](https://en.wikipedia.org/wiki/Serverless_computing) application.Its deployable in aws.
+
+## Demo :
+Here is Demo page [myAccounts app](http://myaccounts-sls-dns.s3-website-eu-west-1.amazonaws.com/login). 
+username: testi@testi.com password : Testi2019!
 
 
 ## myAccounts has 2 apps:
@@ -10,13 +14,12 @@ myaccounts-app-sls-api is backend serverless app.It has Aws lambda and aws api g
 
 
 ## Stacks:
-
-Reactjs
-AWS S3
-AWS API gateway
-AWS Lambda
-AWS Cognito
-AWS IAM
+Reactjs\
+AWS S3\
+Aws Api Gateway\
+AWS Lambda\
+AWS Cognito\
+AWS IAM\
 AWS DYNAMODB
 
 
