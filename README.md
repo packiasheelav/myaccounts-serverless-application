@@ -26,6 +26,4 @@ node.js
 
 
 
-## Reference
-[Serverless](https://serverless-stack.com/)
 
