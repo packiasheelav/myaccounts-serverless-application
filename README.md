@@ -2,8 +2,9 @@
 myaccounts is [Serverless](https://en.wikipedia.org/wiki/Serverless_computing) application.Its deployable in aws.
 
 ## Demo :
-Here is Demo [myAccounts app](http://myaccounts-sls-dns.s3-website-eu-west-1.amazonaws.com/login) page 
-username: testi@testi.com password : Testi2019!
+Here is Demo [myAccounts app] (http://myaccounts-sls-dns.s3-website-eu-west-1.amazonaws.com/login) page 
+username: testi@testi.com 
+password : Testi2019!
 
 
 ## myAccounts has 2 apps:
